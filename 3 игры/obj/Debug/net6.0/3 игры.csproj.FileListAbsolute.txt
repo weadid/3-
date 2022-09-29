@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\3 игры\3 игры\bin\Debug\net6.0\3 игры.exe
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\3 игры\3 игры\bin\Debug\net6.0\3 игры.deps.json
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\3 игры\3 игры\bin\Debug\net6.0\3 игры.runtimeconfig.json
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\3 игры\3 игры\bin\Debug\net6.0\3 игры.dll
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\3 игры\3 игры\bin\Debug\net6.0\3 игры.pdb
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\3 игры\3 игры\obj\Debug\net6.0\3 игры.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\3 игры\3 игры\obj\Debug\net6.0\3 игры.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\3 игры\3 игры\obj\Debug\net6.0\3 игры.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\3 игры\3 игры\obj\Debug\net6.0\3 игры.AssemblyInfo.cs
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\3 игры\3 игры\obj\Debug\net6.0\3 игры.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\3 игры\3 игры\obj\Debug\net6.0\3 игры.dll
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\3 игры\3 игры\obj\Debug\net6.0\refint\3 игры.dll
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\3 игры\3 игры\obj\Debug\net6.0\3 игры.pdb
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\3 игры\3 игры\obj\Debug\net6.0\3 игры.genruntimeconfig.cache
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\3 игры\3 игры\obj\Debug\net6.0\ref\3 игры.dll
